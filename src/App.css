@@ -1,0 +1,27 @@
+.reset-btn {
+  width: max-content;
+  border-radius: 8px;
+  border: none;
+  padding: 1.2rem 0.7rem;
+  color: #e4eaee;
+  background: #264050;
+  cursor: pointer;
+  transition: 130ms ease-in-out;
+}
+
+.reset-btn:hover,
+.reset-btn:active {
+  background: #061f2f;
+  color: #a6bbcb;
+}
+
+.total {
+  color: white;
+  font-size: 1.1rem;
+}
+
+.app-title {
+  margin: 0 8rem;
+  padding-top: 10rem;
+  font-size: 2.2rem;
+}
